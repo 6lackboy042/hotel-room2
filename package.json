@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.19.1",
     "mongoose": "^8.2.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
   }
 }
